@@ -1,6 +1,7 @@
 ---
 layout: post
-title: About
+title: print('Hola mundo')
+author: cvxz
 permalink: /about/
 ---
 
