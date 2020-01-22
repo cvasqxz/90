@@ -1,2 +1,15 @@
+.nav-title {
+	font-family: 'Poiret One', cursive;
+	-webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
 
-.nav-title { -webkit-transition: all 0.2s ease-out; -moz-transition: all 0.2s ease-out; transition: all 0.2s ease-out; display: inline-block; margin: 0;  }
+.post a { color: #444; background-color: #FFFC7F; padding: 2px; text-decoration: none; }
+.post a:hover { color: #fff; background-color: #ff0033; padding: 2px; text-decoration: none; }
+
+footer span { font-family: Menlo, Monaco, monospace; color: #555; }
+footer a { color: #666; text-decoration: none; }
