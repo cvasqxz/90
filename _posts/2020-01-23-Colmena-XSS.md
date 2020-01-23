@@ -23,4 +23,4 @@ function verificaAcceso(){
 };
 {% endhighlight %}
 
-[https://www.colmena.cl/CDP/?rutAfiliado=';window.location="https://90.cl";//](https://www.colmena.cl/CDP/?rutAfiliado=';window.location="https://90.cl";//)
+URL Ejemplo: [https://www.colmena.cl/CDP/?rutAfiliado=';window.location="https://90.cl";//](https://www.colmena.cl/CDP/?rutAfiliado=';window.location="https://90.cl";//)
