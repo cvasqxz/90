@@ -12,7 +12,7 @@ Para el diseño de este script decidí que solo quería analizar los dominios qu
 
 En el primer caso utilicé el [diccionario BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039/spanish.txt) de Bitcoin en español, lo que entregó un gran listado de dominios disponibles, pero como no tenía idea de qué temas iba a tocar en mi _futuro blog personal_ decidí seguir con mi búsqueda, ya que [hoyo.cl](http://www.hoyo.cl/) no era una opción muy buena para un blog.
 
-El segundo análisis lo hice con un rango numérico entre el [valor ASCII](https://www.asciitable.xyz/) de la letra A hasta la letra Z, y lamentablemente todos los dominios con una sola letra ya estaban registrados, y para finalizar este ejercicio, modifiqué el rango anterior para buscar el String de los números entre 00 y 99, lo que arrojó un único dominio que no se encontraba registrado.
+El segundo análisis lo hice con un rango numérico entre el [valor ASCII](https://www.asciitable.xyz/) de la letra A hasta la letra Z, y lamentablemente todos los dominios con una sola letra ya estaban registrados. Para finalizar este ejercicio, modifiqué el rango anterior para buscar el String de los números entre 00 y 99, lo que arrojó un único dominio que no se encontraba registrado.
 
 {% highlight python %}
 import os
