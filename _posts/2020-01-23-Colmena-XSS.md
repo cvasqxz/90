@@ -1,7 +1,7 @@
 ---
 layout: post
 author: cvxz
-title:  "Isapre Colmena XSS"
+title:  "Colmena.cl XSS"
 date:   2020-01-23 18:12:46 -0300
 categories: xss
 ---
